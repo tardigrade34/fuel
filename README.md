@@ -1,18 +1,5 @@
 # Fuel İstemcisi
 
-[![build](https://github.com/FuelLabs/fuel-core/actions/workflows/ci.yml/badge.svg)](https://github.com/FuelLabs/fuel-core/actions/workflows/ci.yml)
-[![crates.io](https://img.shields.io/crates/v/fuel-core?label=latest)](https://crates.io/crates/fuel-core)
-[![docs](https://docs.rs/fuel-core/badge.svg)](https://docs.rs/fuel-core/)
-[![discord](https://img.shields.io/badge/chat%20on-discord-orange?&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/xfpK4Pe)
-
-Fuel istemcisinin uygulama kodu.
-
-## Katkıda Bulunma
-
-Eğer Fuel'a katkıda bulunmak istiyorsanız, kod standartları ve inceleme süreci için [CONTRIBUTING.md](CONTRIBUTING.md) yönergelerimize göz atın.
-
-Herhangi bir değişiklik yapmadan veya bir çekme isteği oluşturmadan önce lütfen `source ci_checks.sh` komutunu çalıştırın.
-
 ## Derleme
 
 ### Sistem Gereksinimleri
