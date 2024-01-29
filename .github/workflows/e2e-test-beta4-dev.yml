@@ -1,8 +1,8 @@
 name: E2E Test Beta-4
 
 on:
-  schedule:
-    - cron: '*/30 * * * *'
+# schedule:
+#   - cron: '*/30 * * * *'
 
 jobs:
   e2e_test:
